@@ -1,6 +1,6 @@
 # MTN UPGRADE DATA(IP WEEK 3)
 
-#### By Nelson Muteti
+#### By Vincent
    
    nelsonmuteti012@gmail.com 
 
@@ -52,7 +52,7 @@ outlined. I use the CRISP DM Methodology to approach the project.
 
 ## Support
 
-*Contact Nelson Muteti : nelsonmuteti012@gmail.com for any clarification.
+*Contact Nelson Muteti : cheruiyotvincent1998@gmail.com for any clarification.
 
 *In addition, you may feel free to fork this project and make useful collaborations.
 
@@ -60,7 +60,7 @@ outlined. I use the CRISP DM Methodology to approach the project.
 
 MIT License
 
-Copyright (c) 2021 NelsonM
+Copyright (c) 2021 Vincent
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
